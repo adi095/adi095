@@ -22,20 +22,25 @@ I'm a Robotics Engineer with expertise in artificial Intelligence applications.
 
 **Tools and Technologies:** ROS, ROS 2, OpenCV, Pytorch, Git, GitHub, Gazebo, Docker, Linux, CMake, CUDA
 
+Here's the updated version of your "Connect With Me" and GitHub Stats section with your profile details:
+
+---
+
 ## 📫 Connect With Me
 - **Email:** adsane@syr.edu
-- **LinkedIn:** [AdishreeSane]([https://www.linkedin.com/in/adishree-sane/])
-- **Website:** [adi095.github.io]([https://github.com/adi095])
-- **Location:** Syracuse,NY
+- **LinkedIn:** [Adishree Sane](https://www.linkedin.com/in/adishree-sane/)
+- **Website:** [adi095.github.io](https://adi095.github.io/)
+- **Location:** Syracuse, NY
 
 ## 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=UthiraS&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=adi095&color=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UthiraS&layout=compact&hide=javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adi095&layout=compact&hide=javascript)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UthiraS&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adi095&show_icons=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UthiraS)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adi095)
+
 
 ## 🎯 Looking Forward
 Currently seeking full-time opportunities in Robotics and Artificial Intelligence, with a focus on:
