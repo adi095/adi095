@@ -78,6 +78,10 @@ I'm a Robotics Engineer with expertise in AI-driven motion planning, navigation,
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adi095&show_icons=true&count_private=true)
 
 ---
+## 📊 Publications
+•	IEEE - ['Animal Healthcare and Farm Animal Disease Prediction'](https://ieeexplore.ieee.org/document/10146635) with CNN for skin disease prediction.                
+•	Springer – [‘ATM Security System Using Gesture and Hand Vein Recognition’](https://link.springer.com/chapter/10.1007/978-3-031-13150-9_28) using CNN and Raspberry Pi.
+
 
 ## 🎯 Looking Forward
 Currently seeking full-time opportunities in Robotics and Artificial Intelligence, with a focus on:
