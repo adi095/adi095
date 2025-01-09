@@ -5,9 +5,9 @@ I'm a Robotics Engineer with expertise in AI-driven motion planning, navigation,
 
 ## 🎓 Experience
 ### YewSavin - Research Intern
-- Automated a robotic experimental system using ESP32 and PID control, improving precision in dynamic processes.
+- Automated an experimental system using ESP32 and PID control, boosting precision by 15% in dynamic processes. 
 - Used control algorithms for robotic chemical handling, including sensors, and actuators, to optimize performance.
-- Collaborated on drug lead optimization using genetic algorithms and vector datasets to enhance compound solubility.
+- Applied genetic algorithms on vector datasets to optimize drug lead identification and enhance the compound's solubility.
 
 ### Agnel Robotics Club - Robotics Software Developer
 - Engineered prototypes for Asia-Pacific robotics competitions (ROBOCON), solving complex tasks with Python and C++.
@@ -15,8 +15,8 @@ I'm a Robotics Engineer with expertise in AI-driven motion planning, navigation,
 - Refined control algorithms for 3 and 4-wheeled holonomic locomotion improving navigation with ROS and Gazebo.
 
 ### Capgemini - Software Associate Intern
-- Developed a Convolutional Neural Network (CNN)-based document management system, achieving 80% accuracy in document classification.
-- Utilized TensorFlow/Keras for model development and fine-tuned hyperparameters to enhance accuracy.
+- CNN-based document system using VGG16 and InceptionResNetV2, achieving 85% accuracy across 16 document sets.
+- Utilized TensorFlow and Keras to make models with parallel stacking and hyperparameter tuning to boost accuracy.
 
 ---
 
