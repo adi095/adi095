@@ -20,8 +20,8 @@ I'm a Robotics Engineer with expertise in AI-driven motion planning, navigation,
 ## 🛠️ Technical Skills
 **Languages:** Python, C++, C, MATLAB.  
 **Tools and Technologies:** ROS2, Rviz, TFs, URDF, Nav2, ROS2 control, V-REP, OMPL, MoveIt, PCL, Gazebo, PyTorch, TensorFlow, Keras, OpenCV+, PX4, Simulink, CUDA.  
-**Embedded Systems:** Arduino, ESP32.  
-**Version Control and Development:** Linux, Docker, Git, GitHub, CMake.  
+**Embedded Systems:** Arduino, ESP32, Raspberry pi.    
+**Version Control and Development:** Linux, Docker, Git, GitHub, CMake.
 
 ## 📫 Connect With Me
 - **Email:** adsane@syr.edu
