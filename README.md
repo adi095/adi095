@@ -18,8 +18,6 @@ I'm a Robotics Engineer with expertise in AI-driven motion planning, navigation,
 - Developed a Convolutional Neural Network (CNN)-based document management system, achieving 80% accuracy in document classification.
 - Utilized TensorFlow/Keras for model development and fine-tuned hyperparameters to enhance accuracy.
 
-Here’s a **Markdown version with badges** for the **Technical Skills** section based on your provided content.
-
 ---
 
 ## 🛠 Technical Skills
