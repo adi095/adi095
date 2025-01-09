@@ -1,6 +1,6 @@
 # Welcome to my GitHub page! 👋 - Adishree Sane
 
-I'm a Robotics Engineer with expertise in artificial Intelligence applications. 
+I'm a Robotics Engineer with expertise in AI-driven motion planning, navigation, control and computer vision.
 
 ## 🎓 Experience
 ### YewSavin - Research Intern
