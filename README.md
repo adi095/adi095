@@ -35,9 +35,6 @@ I'm a Robotics Engineer with expertise in AI-driven motion planning, navigation,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adi095&show_icons=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adi095)
-
-
 ## 🎯 Looking Forward
 Currently seeking full-time opportunities in Robotics and Artificial Intelligence, with a focus on:
 
