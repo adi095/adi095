@@ -22,10 +22,6 @@ I'm a Robotics Engineer with expertise in artificial Intelligence applications.
 
 **Tools and Technologies:** ROS, ROS 2, OpenCV, Pytorch, Git, GitHub, Gazebo, Docker, Linux, CMake, CUDA
 
-Here's the updated version of your "Connect With Me" and GitHub Stats section with your profile details:
-
----
-
 ## 📫 Connect With Me
 - **Email:** adsane@syr.edu
 - **LinkedIn:** [Adishree Sane](https://www.linkedin.com/in/adishree-sane/)
