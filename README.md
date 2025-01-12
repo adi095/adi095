@@ -6,7 +6,7 @@ I'm a Robotics Engineer with expertise in AI-driven motion planning, navigation,
 ## 🎓 Experience
 ### YewSavin - Research Intern
 - Automated an experimental system using ESP32 and PID control, boosting precision by 15% in dynamic processes. 
-- Used control algorithms for robotic chemical hadling, including sensors, and actuators, to optimize performance.
+- Used control algorithms for robotic chemical handling, including sensors, and actuators, to optimize performance.
 - Applied genetic algorithms on vector datasets to optimize drug lead identification and enhance the compound's solubility.
 
 ### Agnel Robotics Club - Robotics Software Developer
