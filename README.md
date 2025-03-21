@@ -87,14 +87,6 @@ I am a Software Engineer with a strong foundation in AI models and architectures
 
 ---
 
-## 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=adi095&color=blue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adi095&layout=compact&hide=javascript)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adi095&show_icons=true&count_private=true)
-
----
 ## 📊 Publications
 •	IEEE - ['Animal Healthcare and Farm Animal Disease Prediction'](https://ieeexplore.ieee.org/document/10146635) with CNN for skin disease prediction.                
 •	Springer – [‘ATM Security System Using Gesture and Hand Vein Recognition’](https://link.springer.com/chapter/10.1007/978-3-031-13150-9_28) using CNN and Raspberry Pi.
