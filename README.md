@@ -95,7 +95,7 @@ I am a Software Engineer with a strong foundation in AI models and architectures
 ## 🎯 Looking Forward
 Currently seeking full-time opportunities in Robotics and Artificial Intelligence, with a focus on:
 
-- Robotic Software Engineer/Developemnet
-- Artificial intelligence / Deep Learning Applications in Robotics
-- Computer Vision Systems
+- Robotic Software Engineer/Developer
+- Computer Vision / Perception Engineer
+- Artificial Intelligence/ Machine Learning engineer
 
