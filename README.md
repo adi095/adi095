@@ -1,7 +1,6 @@
 # Welcome to my GitHub page! 👋 - Adishree Sane
 
-I'm a Robotics Engineer with expertise in AI-driven motion planning, navigation, control and computer vision. Passionate about coding robot actions and mechanisms to achieve optimized performance in dynamic environments utilizing AI
-
+I am a Software Engineer with a strong foundation in AI models and architectures, I combine deep learning with traditional robotics to help robots see, move and think! I have experience in backend development - API design & microservices, and cloud, enabling me to build scalable, data-driven robotic systems.
 
 ## 🎓 Experience
 ### YewSavin - Research Intern
@@ -26,32 +25,49 @@ I'm a Robotics Engineer with expertise in AI-driven motion planning, navigation,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### Tools and Technologies
+### Robotics Tools and Technologies
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![RViz](https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![TFs](https://img.shields.io/badge/TFs-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![URDF](https://img.shields.io/badge/URDF-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Nav2](https://img.shields.io/badge/Nav2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![ROS2 Control](https://img.shields.io/badge/ROS2%20Control-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![V-REP](https://img.shields.io/badge/V--REP-22314E?style=for-the-badge)
 ![OMPL](https://img.shields.io/badge/OMPL-22314E?style=for-the-badge)
 ![MoveIt](https://img.shields.io/badge/MoveIt-22314E?style=for-the-badge&logo=moveit&logoColor=white)
 ![PCL](https://img.shields.io/badge/PCL-00599C?style=for-the-badge)
 ![Gazebo](https://img.shields.io/badge/Gazebo-00599C?style=for-the-badge&logo=gazebo)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logoColor=white)
+![CARLA](https://img.shields.io/badge/CARLA-3A3A3A?style=for-the-badge&logoColor=white)
+
+### AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PX4](https://img.shields.io/badge/PX4-00599C?style=for-the-badge)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-003B46?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### API developement
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-005571?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-800000?style=for-the-badge)
+![Serial UART/I2C/SPI](https://img.shields.io/badge/Serial%20(UART%2FI2C%2FSPI)-444444?style=for-the-badge)
+ 
+### Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Version Control and Development
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
