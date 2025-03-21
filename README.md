@@ -56,14 +56,14 @@ I am a Software Engineer with a strong foundation in AI models and architectures
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### API developement
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-005571?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
-![WebSocket](https://img.shields.io/badge/WebSocket-800000?style=for-the-badge)
-![Serial UART/I2C/SPI](https://img.shields.io/badge/Serial%20(UART%2FI2C%2FSPI)-444444?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-136149?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-289EBD?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-00A99D?style=for-the-badge&logo=fastapi&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-007ACC?style=for-the-badge&logo=api&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-FF9900?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-FF5722?style=for-the-badge&logo=websocket&logoColor=white)
+![Serial UART/I2C/SPI](https://img.shields.io/badge/Serial%20(UART%2FI2C%2FSPI)-9C27B0?style=for-the-badge&logo=usb&logoColor=white)
  
 ### Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
