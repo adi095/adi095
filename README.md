@@ -98,4 +98,6 @@ Currently seeking full-time opportunities in Robotics and Artificial Intelligenc
 - Robotic Software Engineer/Developer
 - Computer Vision / Perception Engineer
 - Artificial Intelligence/ Machine Learning engineer
+- Python Developer
+- C++ Developer
 
