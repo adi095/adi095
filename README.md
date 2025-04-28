@@ -3,7 +3,7 @@
 I am a Software Engineer with a strong foundation in AI models and architectures, I combine deep learning with traditional robotics to help robots sense, move and think! Additionally, I have experience in backend development - API design & microservices, and cloud, enabling me to build scalable, data-driven robotic systems.
 
 ## 🎓 Experience
-### YewSavin - Research Intern
+### YewSavin - Researcher 
 - Automated an experimental system using ESP32 and PID control, boosting precision by 15% in dynamic processes. 
 - Used control algorithms for robotic chemical handling, including sensors, and actuators, to optimize performance.
 - Applied genetic algorithms on vector datasets to optimize drug lead identification and enhance the compound's solubility.
