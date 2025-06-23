@@ -1,6 +1,7 @@
 # Welcome to my GitHub page! 👋 - Adishree Sane
 
-I am a Software Engineer with a strong foundation in AI models and architectures, I combine deep learning with traditional robotics to help robots sense, move and think! Additionally, I have experience in backend development - API design & microservices, and cloud, enabling me to build scalable, data-driven robotic systems.
+I am a Software Engineer with a strong foundation in AI model architectures and Data, I combine deep learning with traditional robotics to help robots sense, move and think! I also leverage data analytics to extract meaningful insights and optimize both robotic behavior and system performance, bridging the gap between perception, decision-making, and real-world action.
+
 
 ## 🎓 Experience
 ### YewSavin - Research Volunteer
