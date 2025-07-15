@@ -1,6 +1,8 @@
 # Welcome to my GitHub page! 👋 - Adishree Sane
 
-I am a Software Engineer with a strong foundation in AI model architectures and Data, I combine deep learning with traditional robotics to help robots sense, move and think! I also leverage data analytics to extract meaningful insights and optimize both robotic behavior and system performance, bridging the gap between perception, decision-making, and real-world action.
+Computer Science graduate specializing in AI and robotics, enabling robots to sense, move, and think! Dedicated to developing intelligent systems focusing on perception, navigation, and motion planning in both simulation and real-time.
+
+Curious, driven, and ready to go all in—I'm here to grow fast, solve real problems, and contribute to something bigger! Let’s connect—I’d enjoy a quick chat
 
 
 ## 🎓 Experience
